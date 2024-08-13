@@ -1,0 +1,13 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+</web-app>
+
+<!-- Purpose: This XML snippet (web.xml) sets up essential details for a Java web application, such as its name (display-name).
+
+Standardization: It follows rules to ensure the application works smoothly when deployed, especially important when using frameworks like Spring MVC with Maven.
+
+Functionality: This file helps the application handle web requests properly and integrate smoothly with servers that run Java web applications. -->
